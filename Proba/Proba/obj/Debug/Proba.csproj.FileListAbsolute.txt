@@ -1,0 +1,8 @@
+A:\Anyu\Proba\Proba\bin\Debug\Proba.exe.config
+A:\Anyu\Proba\Proba\bin\Debug\Proba.exe
+A:\Anyu\Proba\Proba\bin\Debug\Proba.pdb
+A:\Anyu\Proba\Proba\obj\Debug\Proba.csproj.AssemblyReference.cache
+A:\Anyu\Proba\Proba\obj\Debug\Proba.csproj.SuggestedBindingRedirects.cache
+A:\Anyu\Proba\Proba\obj\Debug\Proba.csproj.CoreCompileInputs.cache
+A:\Anyu\Proba\Proba\obj\Debug\Proba.exe
+A:\Anyu\Proba\Proba\obj\Debug\Proba.pdb
