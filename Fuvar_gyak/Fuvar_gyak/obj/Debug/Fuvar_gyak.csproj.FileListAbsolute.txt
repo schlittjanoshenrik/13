@@ -1,0 +1,8 @@
+A:\Anyu\Fuvar_gyak\Fuvar_gyak\bin\Debug\Fuvar_gyak.exe.config
+A:\Anyu\Fuvar_gyak\Fuvar_gyak\bin\Debug\Fuvar_gyak.exe
+A:\Anyu\Fuvar_gyak\Fuvar_gyak\bin\Debug\Fuvar_gyak.pdb
+A:\Anyu\Fuvar_gyak\Fuvar_gyak\obj\Debug\Fuvar_gyak.csproj.AssemblyReference.cache
+A:\Anyu\Fuvar_gyak\Fuvar_gyak\obj\Debug\Fuvar_gyak.csproj.SuggestedBindingRedirects.cache
+A:\Anyu\Fuvar_gyak\Fuvar_gyak\obj\Debug\Fuvar_gyak.csproj.CoreCompileInputs.cache
+A:\Anyu\Fuvar_gyak\Fuvar_gyak\obj\Debug\Fuvar_gyak.exe
+A:\Anyu\Fuvar_gyak\Fuvar_gyak\obj\Debug\Fuvar_gyak.pdb

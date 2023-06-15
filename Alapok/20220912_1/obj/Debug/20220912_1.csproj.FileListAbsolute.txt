@@ -1,0 +1,8 @@
+A:\Anyu\Alapok\20220912_1\bin\Debug\20220912_1.exe.config
+A:\Anyu\Alapok\20220912_1\bin\Debug\20220912_1.exe
+A:\Anyu\Alapok\20220912_1\bin\Debug\20220912_1.pdb
+A:\Anyu\Alapok\20220912_1\obj\Debug\20220912_1.csproj.AssemblyReference.cache
+A:\Anyu\Alapok\20220912_1\obj\Debug\20220912_1.csproj.SuggestedBindingRedirects.cache
+A:\Anyu\Alapok\20220912_1\obj\Debug\20220912_1.csproj.CoreCompileInputs.cache
+A:\Anyu\Alapok\20220912_1\obj\Debug\20220912_1.exe
+A:\Anyu\Alapok\20220912_1\obj\Debug\20220912_1.pdb

@@ -1,0 +1,8 @@
+A:\Anyu\Allatkert_hazi\Allatkert_hazi\bin\Debug\Allatkert_hazi.exe.config
+A:\Anyu\Allatkert_hazi\Allatkert_hazi\bin\Debug\Allatkert_hazi.exe
+A:\Anyu\Allatkert_hazi\Allatkert_hazi\bin\Debug\Allatkert_hazi.pdb
+A:\Anyu\Allatkert_hazi\Allatkert_hazi\obj\Debug\Allatkert_hazi.csproj.AssemblyReference.cache
+A:\Anyu\Allatkert_hazi\Allatkert_hazi\obj\Debug\Allatkert_hazi.csproj.SuggestedBindingRedirects.cache
+A:\Anyu\Allatkert_hazi\Allatkert_hazi\obj\Debug\Allatkert_hazi.csproj.CoreCompileInputs.cache
+A:\Anyu\Allatkert_hazi\Allatkert_hazi\obj\Debug\Allatkert_hazi.exe
+A:\Anyu\Allatkert_hazi\Allatkert_hazi\obj\Debug\Allatkert_hazi.pdb

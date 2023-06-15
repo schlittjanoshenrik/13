@@ -1,0 +1,8 @@
+A:\Anyu\20221121_Pilota\20221121_Pilota\bin\Debug\20221121_Pilota.exe.config
+A:\Anyu\20221121_Pilota\20221121_Pilota\bin\Debug\20221121_Pilota.exe
+A:\Anyu\20221121_Pilota\20221121_Pilota\bin\Debug\20221121_Pilota.pdb
+A:\Anyu\20221121_Pilota\20221121_Pilota\obj\Debug\20221121_Pilota.csproj.AssemblyReference.cache
+A:\Anyu\20221121_Pilota\20221121_Pilota\obj\Debug\20221121_Pilota.csproj.SuggestedBindingRedirects.cache
+A:\Anyu\20221121_Pilota\20221121_Pilota\obj\Debug\20221121_Pilota.csproj.CoreCompileInputs.cache
+A:\Anyu\20221121_Pilota\20221121_Pilota\obj\Debug\20221121_Pilota.exe
+A:\Anyu\20221121_Pilota\20221121_Pilota\obj\Debug\20221121_Pilota.pdb
