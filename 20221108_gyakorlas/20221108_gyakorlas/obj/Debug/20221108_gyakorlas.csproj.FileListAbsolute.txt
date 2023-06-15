@@ -1,0 +1,8 @@
+A:\Anyu\20221108_gyakorlas\20221108_gyakorlas\bin\Debug\20221108_gyakorlas.exe.config
+A:\Anyu\20221108_gyakorlas\20221108_gyakorlas\bin\Debug\20221108_gyakorlas.exe
+A:\Anyu\20221108_gyakorlas\20221108_gyakorlas\bin\Debug\20221108_gyakorlas.pdb
+A:\Anyu\20221108_gyakorlas\20221108_gyakorlas\obj\Debug\20221108_gyakorlas.csproj.AssemblyReference.cache
+A:\Anyu\20221108_gyakorlas\20221108_gyakorlas\obj\Debug\20221108_gyakorlas.csproj.SuggestedBindingRedirects.cache
+A:\Anyu\20221108_gyakorlas\20221108_gyakorlas\obj\Debug\20221108_gyakorlas.csproj.CoreCompileInputs.cache
+A:\Anyu\20221108_gyakorlas\20221108_gyakorlas\obj\Debug\20221108_gyakorlas.exe
+A:\Anyu\20221108_gyakorlas\20221108_gyakorlas\obj\Debug\20221108_gyakorlas.pdb

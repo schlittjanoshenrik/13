@@ -1,0 +1,8 @@
+A:\Anyu\20221024_tetelek\20221024_tetelek\bin\Debug\20221024_tetelek.exe.config
+A:\Anyu\20221024_tetelek\20221024_tetelek\bin\Debug\20221024_tetelek.exe
+A:\Anyu\20221024_tetelek\20221024_tetelek\bin\Debug\20221024_tetelek.pdb
+A:\Anyu\20221024_tetelek\20221024_tetelek\obj\Debug\20221024_tetelek.csproj.AssemblyReference.cache
+A:\Anyu\20221024_tetelek\20221024_tetelek\obj\Debug\20221024_tetelek.csproj.SuggestedBindingRedirects.cache
+A:\Anyu\20221024_tetelek\20221024_tetelek\obj\Debug\20221024_tetelek.csproj.CoreCompileInputs.cache
+A:\Anyu\20221024_tetelek\20221024_tetelek\obj\Debug\20221024_tetelek.exe
+A:\Anyu\20221024_tetelek\20221024_tetelek\obj\Debug\20221024_tetelek.pdb

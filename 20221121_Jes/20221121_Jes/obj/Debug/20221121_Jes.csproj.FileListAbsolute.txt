@@ -1,0 +1,8 @@
+A:\Anyu\20221121_Jes\20221121_Jes\bin\Debug\20221121_Jes.exe.config
+A:\Anyu\20221121_Jes\20221121_Jes\bin\Debug\20221121_Jes.exe
+A:\Anyu\20221121_Jes\20221121_Jes\bin\Debug\20221121_Jes.pdb
+A:\Anyu\20221121_Jes\20221121_Jes\obj\Debug\20221121_Jes.csproj.AssemblyReference.cache
+A:\Anyu\20221121_Jes\20221121_Jes\obj\Debug\20221121_Jes.csproj.SuggestedBindingRedirects.cache
+A:\Anyu\20221121_Jes\20221121_Jes\obj\Debug\20221121_Jes.csproj.CoreCompileInputs.cache
+A:\Anyu\20221121_Jes\20221121_Jes\obj\Debug\20221121_Jes.exe
+A:\Anyu\20221121_Jes\20221121_Jes\obj\Debug\20221121_Jes.pdb
