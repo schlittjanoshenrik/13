@@ -1,0 +1,8 @@
+A:\Anyu\20220926_faljkezeles\20220926_faljkezeles\obj\Debug\20220926_faljkezeles.csproj.AssemblyReference.cache
+A:\Anyu\20220926_faljkezeles\20220926_faljkezeles\obj\Debug\20220926_faljkezeles.csproj.SuggestedBindingRedirects.cache
+A:\Anyu\20220926_faljkezeles\20220926_faljkezeles\obj\Debug\20220926_faljkezeles.csproj.CoreCompileInputs.cache
+A:\Anyu\20220926_faljkezeles\20220926_faljkezeles\bin\Debug\20220926_faljkezeles.exe.config
+A:\Anyu\20220926_faljkezeles\20220926_faljkezeles\bin\Debug\20220926_faljkezeles.exe
+A:\Anyu\20220926_faljkezeles\20220926_faljkezeles\bin\Debug\20220926_faljkezeles.pdb
+A:\Anyu\20220926_faljkezeles\20220926_faljkezeles\obj\Debug\20220926_faljkezeles.exe
+A:\Anyu\20220926_faljkezeles\20220926_faljkezeles\obj\Debug\20220926_faljkezeles.pdb

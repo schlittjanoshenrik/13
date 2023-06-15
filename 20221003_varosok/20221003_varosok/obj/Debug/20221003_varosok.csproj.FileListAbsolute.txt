@@ -1,0 +1,8 @@
+A:\Anyu\20221003_varosok\20221003_varosok\bin\Debug\20221003_varosok.exe.config
+A:\Anyu\20221003_varosok\20221003_varosok\bin\Debug\20221003_varosok.exe
+A:\Anyu\20221003_varosok\20221003_varosok\bin\Debug\20221003_varosok.pdb
+A:\Anyu\20221003_varosok\20221003_varosok\obj\Debug\20221003_varosok.csproj.AssemblyReference.cache
+A:\Anyu\20221003_varosok\20221003_varosok\obj\Debug\20221003_varosok.csproj.SuggestedBindingRedirects.cache
+A:\Anyu\20221003_varosok\20221003_varosok\obj\Debug\20221003_varosok.csproj.CoreCompileInputs.cache
+A:\Anyu\20221003_varosok\20221003_varosok\obj\Debug\20221003_varosok.exe
+A:\Anyu\20221003_varosok\20221003_varosok\obj\Debug\20221003_varosok.pdb
