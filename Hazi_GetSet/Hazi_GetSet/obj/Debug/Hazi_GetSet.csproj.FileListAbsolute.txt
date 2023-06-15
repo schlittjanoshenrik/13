@@ -1,0 +1,8 @@
+A:\Anyu\Hazi_GetSet\Hazi_GetSet\bin\Debug\Hazi_GetSet.exe.config
+A:\Anyu\Hazi_GetSet\Hazi_GetSet\bin\Debug\Hazi_GetSet.exe
+A:\Anyu\Hazi_GetSet\Hazi_GetSet\bin\Debug\Hazi_GetSet.pdb
+A:\Anyu\Hazi_GetSet\Hazi_GetSet\obj\Debug\Hazi_GetSet.csproj.AssemblyReference.cache
+A:\Anyu\Hazi_GetSet\Hazi_GetSet\obj\Debug\Hazi_GetSet.csproj.SuggestedBindingRedirects.cache
+A:\Anyu\Hazi_GetSet\Hazi_GetSet\obj\Debug\Hazi_GetSet.csproj.CoreCompileInputs.cache
+A:\Anyu\Hazi_GetSet\Hazi_GetSet\obj\Debug\Hazi_GetSet.exe
+A:\Anyu\Hazi_GetSet\Hazi_GetSet\obj\Debug\Hazi_GetSet.pdb

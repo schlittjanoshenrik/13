@@ -1,0 +1,12 @@
+A:\Anyu\pizzeria_gyak\pizzeria_gyak\bin\Debug\pizzeria_gyak.exe.config
+A:\Anyu\pizzeria_gyak\pizzeria_gyak\bin\Debug\pizzeria_gyak.exe
+A:\Anyu\pizzeria_gyak\pizzeria_gyak\bin\Debug\pizzeria_gyak.pdb
+A:\Anyu\pizzeria_gyak\pizzeria_gyak\obj\Debug\pizzeria_gyak.csproj.AssemblyReference.cache
+A:\Anyu\pizzeria_gyak\pizzeria_gyak\obj\Debug\pizzeria_gyak.csproj.SuggestedBindingRedirects.cache
+A:\Anyu\pizzeria_gyak\pizzeria_gyak\obj\Debug\pizzeria_gyak.Form1.resources
+A:\Anyu\pizzeria_gyak\pizzeria_gyak\obj\Debug\pizzeria_gyak.Form2.resources
+A:\Anyu\pizzeria_gyak\pizzeria_gyak\obj\Debug\pizzeria_gyak.Properties.Resources.resources
+A:\Anyu\pizzeria_gyak\pizzeria_gyak\obj\Debug\pizzeria_gyak.csproj.GenerateResource.cache
+A:\Anyu\pizzeria_gyak\pizzeria_gyak\obj\Debug\pizzeria_gyak.csproj.CoreCompileInputs.cache
+A:\Anyu\pizzeria_gyak\pizzeria_gyak\obj\Debug\pizzeria_gyak.exe
+A:\Anyu\pizzeria_gyak\pizzeria_gyak\obj\Debug\pizzeria_gyak.pdb

@@ -1,0 +1,8 @@
+A:\Anyu\kapacsvetes_gyak\kapacsvetes_gyak\bin\Debug\kapacsvetes_gyak.exe.config
+A:\Anyu\kapacsvetes_gyak\kapacsvetes_gyak\bin\Debug\kapacsvetes_gyak.exe
+A:\Anyu\kapacsvetes_gyak\kapacsvetes_gyak\bin\Debug\kapacsvetes_gyak.pdb
+A:\Anyu\kapacsvetes_gyak\kapacsvetes_gyak\obj\Debug\kapacsvetes_gyak.csproj.AssemblyReference.cache
+A:\Anyu\kapacsvetes_gyak\kapacsvetes_gyak\obj\Debug\kapacsvetes_gyak.csproj.SuggestedBindingRedirects.cache
+A:\Anyu\kapacsvetes_gyak\kapacsvetes_gyak\obj\Debug\kapacsvetes_gyak.csproj.CoreCompileInputs.cache
+A:\Anyu\kapacsvetes_gyak\kapacsvetes_gyak\obj\Debug\kapacsvetes_gyak.exe
+A:\Anyu\kapacsvetes_gyak\kapacsvetes_gyak\obj\Debug\kapacsvetes_gyak.pdb
